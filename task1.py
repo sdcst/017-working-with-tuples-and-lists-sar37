@@ -24,4 +24,9 @@ The animal at that index is Dog
 
 
 
-animals =
+animals = ["bear", "cat", "dog", "fish", "turtle" ]
+
+n = input("enter a number")
+n = int(n)
+
+print(animals [n])
